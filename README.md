@@ -1,0 +1,4 @@
+jpa
+===
+
+Demo JPA project
